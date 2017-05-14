@@ -17,8 +17,6 @@ import org.json.simple.parser.ParseException;
 public class TVAPIHelper {
 	
 	private String apiKey = "BB80353BF520E440";
-	private String username = "***REMOVED***";
-	private String userKey = "***REMOVED***";
 	
 	private String baseRequestUrl = "https://api.thetvdb.com/";
 	private String sessionToken;
